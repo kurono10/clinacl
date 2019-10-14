@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am kurono10 on github.
+  * I am kurono2 (https://keybase.io/kurono2) on keybase.
+  * I have a public key ASCMs_xzauO7qHeq2MUxL3HiupSfHx1lxqWAe80RmJAK4go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208cb3fc736ae3bba877aad8c5312f71e2ba949f1f1d65c6a5807bcd1198900ae20a",
+      "host": "keybase.io",
+      "kid": "01208cb3fc736ae3bba877aad8c5312f71e2ba949f1f1d65c6a5807bcd1198900ae20a",
+      "uid": "89f81f099aa179b9f1ceada12a0e2619",
+      "username": "kurono2"
+    },
+    "merkle_root": {
+      "ctime": 1571085217,
+      "hash": "3858ebca445ed156f35c5f3a20a93368b42e816a8d069b9867bfb41e7f99aac807de5e2e6a32e9e4bd8ea4c4535edfd6e9b2ecee7127948ff4613ae12ec15a39",
+      "hash_meta": "bccf483f18bfe923cb2c34f88e37ca63e3a387125c4c5182bf7b46591fc230b9",
+      "seqno": 8122996
+    },
+    "service": {
+      "entropy": "Q/mEbT4LKUPepDJzHtEFDdno",
+      "name": "github",
+      "username": "kurono10"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1571085237,
+  "expire_in": 504576000,
+  "prev": "cc3bf048227f065d65a4c549125b15e81f8a264e56cab2813922fd1dc8bc4c58",
+  "seqno": 26,
+  "tag": "signature"
+}
+```
+
+with the key [ASCMs_xzauO7qHeq2MUxL3HiupSfHx1lxqWAe80RmJAK4go](https://keybase.io/kurono2), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjLP8c2rju6h3qtjFMS9x4rqUnx8dZcalgHvNEZiQCuIKp3BheWxvYWTESpcCGsQgzDvwSCJ/Bl1lpMVJElsV6B+KJk5WyrKBOSL9Hci8TFjEINwN8Iikk877dTn9OuzqDqhhdJrU+W2rhor3sqNabBSIAgHCo3NpZ8RA4tlfCJA2tOdy+qHzTKYlMB2hTIUskswr2YNpy4fP4vU+ukA6jigf+T1BtRDTDnfz52I0bk7SHO6BRQziNQAEC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID5mfol9iLrGICWSO3EIgyYQEDy7olrAtVTcSp06BWESo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/kurono2
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id kurono2
+```
